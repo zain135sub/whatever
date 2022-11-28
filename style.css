@@ -1,0 +1,22 @@
+.heading{
+    font-size: 23px;
+    color: aquamarine;
+}
+.note{
+    color:black;
+    font-size: 19px;
+}
+.copy_right_footer{
+    color:aqua;
+    box-shadow: 4px 4px 32px lightgreen;
+    width: 100%;
+    margin-top: 0;
+}
+video{
+    float: left;
+}
+canvas{
+    border-radius: 5px;
+    border-color: bisque;
+    box-shadow: 4px 4px 35px aquamarine;
+}
